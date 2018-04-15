@@ -1,4 +1,4 @@
 class Dog 
-  def initialize(name)
-  end
+  #def initialize(name)
+  #end
 end
